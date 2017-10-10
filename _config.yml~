@@ -10,13 +10,13 @@ defaults:
       path: ''
       type: 'posts'
     value:
-      layout: '_layouts/default'
+      layout: '_layouts/post'
       author: ''
       comments: true
       share: true
 social:
-  github: 'BarrettLi'
-  codepen: ''
+  github: 'github用户名'
+  codepen: 'codepen用户名'
   rss: feed.xml
-disqus: ''
+disqus: '在disqus上设置的你的站点名或博客名'
 comments: true
